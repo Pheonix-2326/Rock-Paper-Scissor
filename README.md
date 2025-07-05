@@ -1,4 +1,4 @@
-# ✊🖐✌ Rock-Paper-Scissors Game
+# 🪨📄✂️ Rock-Paper-Scissors Game
 
 A simple **console-based C++ application** that lets you play the classic Rock-Paper-Scissors game against the computer. Designed without a GUI, the game runs in the terminal and provides a colorful and structured tabular output for each round, along with a detailed summary at the end.
 
